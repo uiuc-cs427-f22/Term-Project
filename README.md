@@ -1,5 +1,5 @@
 # Term-Project
-The code for CS427 Android app
+The code for CS427 Android app. 
 <br/>
 <br/>
 Team # 
@@ -7,4 +7,12 @@ Team #
 | Name          | NerID         | GitHub ID   | Role          | Experience    |
 | ------------- | ------------- | ------------| ------------- | ------------- |
 |               |               |             |               |               |            
-| Content Cell  | Content Cell  |             | Content Cell  | Content Cell  |
+|               |               |             |               |               |
+|               |               |             |               |               |
+|               |               |             |               |               |
+|               |               |             |               |               |
+|               |               |             |               |               |
+|               |               |             |               |               |
+|               |               |             |               |               |
+<br/>
+<br/>
