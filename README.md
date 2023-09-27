@@ -7,7 +7,7 @@ The code for CS427 Android app.
 <br/>
 | Name          | NetID         | GitHub ID   | Role          | Experience    |
 | ------------- | ------------- | ------------| ------------- | ------------- |
-|               |               |             |               |               |            
+|Cameron Kemme  | ckemme2       |ckemme2      | Tech Lead     | Java, Python  |            
 |               |               |             |               |               |
 |               |               |             |               |               |
 |               |               |             |               |               |
